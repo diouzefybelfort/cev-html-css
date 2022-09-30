@@ -17,3 +17,6 @@
  <a href="https://diouzefybelfort.github.io/html-css/exercicios/ex014/index">Exercício - 014</a><br>
  <a href="https://diouzefybelfort.github.io/html-css/exercicios/ex015/index">Exercício - 015</a><br>
  <a href="https://diouzefybelfort.github.io/html-css/exercicios/ex015/page002">Exercício - 015 - 2º Página</a><br>
+ <a href="https://diouzefybelfort.github.io/html-css/exercicios/ex016x/cor01">Exercício - 016 - 1</a><br>
+ <a href="https://diouzefybelfort.github.io/html-css/exercicios/ex016x/cor02">Exercício - 016 - 2</a><br>
+ <a href="https://diouzefybelfort.github.io/html-css/exercicios/ex016x/cor03">Exercício - 016 - 3</a><br>
